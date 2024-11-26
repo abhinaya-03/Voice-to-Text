@@ -4,7 +4,7 @@ Welcome to my **Voice-to-Text Converter** project! This application leverages **
 
 ---
 
-## 📸 Screenshot  
+## 📸 Website  
 Below is a screenshot of the application in action:  
 <img width="847" alt="Website" src="https://github.com/user-attachments/assets/77e5f800-0108-4eda-a66b-af441e78d4c3">
 
