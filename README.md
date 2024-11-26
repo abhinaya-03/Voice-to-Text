@@ -13,7 +13,7 @@ Below is a screenshot of the application in action:
 ## ✨ Features  
 
 - **Speech Recognition:** Converts spoken input into text using Web Speech API.  
-- **Multilingual Support:** Recognizes multiple languages (if supported by the browser).  
+- **Multilingual Support:** Recognizes multiple languages.  
 - **Real-Time Transcription:** Provides immediate results as you speak.  
 - **User-Friendly Interface:** Simple and intuitive design for easy use.  
 - **Copy & Share Text:** Easily copy the transcribed text or share it directly.  
@@ -27,19 +27,16 @@ Here are some ways this Voice-to-Text project can be utilized or expanded in the
 1. **Website Accessibility:**  
    - Integrate this tool into a website to enhance accessibility for users with disabilities, providing an alternative to typing.  
 
-2. **Content Creation:**  
-   - Use the project for quick voice-based content creation, such as drafting blog posts, notes, or scripts.  
-
-3. **Integration with Chatbots:**  
+2. **Integration with Chatbots:**  
    - Combine with a chatbot project to enable voice-based conversations.  
 
-4. **Language Learning Apps:**  
+3. **Language Learning Apps:**  
    - Add features like live speech practice and transcription for language learners.  
 
-5. **Real-Time Translation:**  
+4. **Real-Time Translation:**  
    - Enhance functionality by integrating a translation API (e.g., Google Translate API) to convert speech into multiple languages.  
 
-6. **Meeting Notes Automation:**  
+5. **Meeting Notes Automation:**  
    - Expand the project to include meeting transcription capabilities with features like text formatting and keyword tagging.
 
 ---
@@ -50,4 +47,4 @@ Here are some ways this Voice-to-Text project can be utilized or expanded in the
 ├── index.html   # Main HTML file  
 ├── style.css    # Stylesheet for design and layout  
 ├── script.js    # JavaScript for functionality  
-└── assets/      # Folder for any media assets (e.g., icons)
+└── languages.js # Folder for all the languages
